@@ -1,0 +1,9 @@
+PH1131 123142 2 21/1/2022 Online uhceld Vat ly dien tu.
+ET2020 141222 5 7/2/2022 Offline TC Thuc tap co ban.
+PH1122 121212 3 14/2/2022 Online utnvsk Vat ly dai cuong 2.
+EM1110 124223 3 28/2/2022 Online merhtd Ky nang mem.
+EM1122 123123 3 30/2/2022 Online jdnedw Chay.
+MI1131 123142 2 5/3/2022 Online uwtrjf Giai tich 3.
+MI2010 128492 4 15/12/2022 Online mvdura Phuong phap tinh Mlab.
+MI6322 123124 1 1/2/2023 Online utenet Xac suat thong ke.
+EM1120 124965 3 10/1/2024 Online meukvd Tam ly hoc va ung dung.

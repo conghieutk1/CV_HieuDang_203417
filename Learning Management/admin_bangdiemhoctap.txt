@@ -1,0 +1,12 @@
+20201 4 0.3 8.5 6.5 7.1 B Giai tich 1.
+20201 4 0.3 5 7.5 6.75 C+ Dai so tuyen tinh.
+20201 3 0.3 8 7.5 7.65 B Triet hoc MLN.
+20201 2 0.3 10 10 10 A+ Nhap mon Dien tu vien thong.
+20202 2 0.3 9 9.5 9.35 A Phap luat dai cuong.
+20202 4 0.5 9 9.5 9.25 A Tin hoc dai cuong.
+20202 3 0.3 10 6 7.2 B Giai tich 2.
+20203 2 0.3 8 8 8 B+ Tu tuong Ho Chi Minh.
+20211 3 0.3 4.5 5 4.85 D Xac suat thong ke.
+20211 2 0.3 5 6 5.7 C Ky thuat lap trinh c.
+20211 4 0.3 4.5 5 4.85 D Vat ly dai cuong II.
+20211 2 0.3 5 6 5.7 C Vat ly dien tu.
